@@ -26,7 +26,3 @@ Esta é uma página web simples desenvolvida como exercício de CSS para demonst
 
 1. Clone este repositório: `git clone <https://github.com/seu-usuario/alessios-pizzaria.git`
 2. Abra o arquivo `index.html` em seu navegador para visualizar a página.
-
-## Licença
-
-Este projeto é apenas para fins educacionais e está disponível sob a [Licença MIT](#).
